@@ -4,7 +4,7 @@
 
 ## 👋 Hey there, I'm Narendran!
 
-DevOps enthusiast turning coffee into infrastructure and automation. Currently crafting cloud solutions and making servers do my bidding.
+DevOps enthusiast turning tea into infrastructure and automation. Currently crafting cloud solutions and making servers do my bidding.
 
 ![DevOps Life](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
@@ -17,32 +17,19 @@ infrastructure:
   iac: [Terraform, CloudFormation]
   ci_cd: [Jenkins, GitHub Actions]
   monitoring: [Prometheus, Grafana, CloudWatch]
+  framework: [Springboot, Spring, Hibernate]
   
 languages:
+  - Java
   - Python
   - Bash
   - YAML (it counts, right?)
   
 learning_queue:
-  - AWS CDK
+  - Azure
   - Serverless Architecture
   - Advanced Kubernetes Patterns
 ```
-
-## 🏗️ Featured Projects
-
-### 🔍 Log Monitoring System
-A serverless solution that scans logs for errors and sends alerts. Because sleep is overrated when your servers are having issues!
-
-```
-Logs → S3 → SQS → Lambda → SNS → Your Inbox → Panic Mode
-```
-
-### 🚢 Container Deployment Pipeline
-Automated CI/CD pipeline for containerized applications. From commit to production in minutes, not days!
-
-### 🛡️ Security Automation Tools
-Scripts and tools to automate security checks and compliance. Because security should be baked in, not bolted on.
 
 ## 📊 GitHub Stats
 
@@ -74,9 +61,8 @@ I believe in:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/narendran-karthikeyan/)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 📧 Email: narendran.karthikeyan@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/narendran-k-9861a219a)
+- 📧 Email: narendrankarthikeyan07@gmail.com
 
 ---
 
