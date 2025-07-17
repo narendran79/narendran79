@@ -40,7 +40,7 @@ learning_queue:
 - Expanding my Kubernetes expertise
 - Building more serverless applications
 - Automating everything I can get my hands on
-- Finding the perfect coffee-to-code ratio
+- How to explain to my family what I actually do for a living
 
 ## 💡 DevOps Philosophy
 
@@ -49,28 +49,19 @@ learning_queue:
 I believe in:
 - Infrastructure as Code (because clicking is so 2010)
 - Fail fast, learn faster
-- Monitoring everything that moves (and some things that don't)
 - Documentation that actually helps
 
 ## 🎮 When Not Coding
 
 - 🏃‍♂️ Running (away from production issues)
-- 📚 Reading tech blogs and books
-- 🎸 Playing guitar
+- 🧝‍♂️ Watching Anime
+- 🏏 Playing Cricket
 - 🌮 Finding the best local food spots
 
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](www.linkedin.com/in/narendran-k-9861a219a)
 - 📧 Email: narendrankarthikeyan07@gmail.com
-
----
-
-### 🔥 Random DevOps Joke
-
-Why do programmers prefer dark mode?
-
-Because light attracts bugs!
 
 ---
 
